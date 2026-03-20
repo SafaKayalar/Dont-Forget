@@ -1,0 +1,3 @@
+repository "Birbirine Bağlı/Birbirine Bağlı@18966955439448@cloud"
+  path "/"
+    smartbranch "/main" changeset "121"
